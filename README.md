@@ -6,7 +6,6 @@ Project 001 of Udacity's Autonomous Aerial Engineer ("Flying Car") Nanodegree, "
 This project was a basic introduction to the Udacidrone simulator, programming the quadrotor as a state machine, and creating waypoints for your quadrotor to follow -- as seen in backyard_flyer.py.
 
 ## To complete this project on your local machine, follow these instructions:
-### Environment Setup (~30 minutes)
 
 ### Environment Setup Instructions
 Read through the instructions below. If these commands look familiar to you, then you should use these VERY abbreviated instructions to get yourself set up.
